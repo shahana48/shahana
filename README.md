@@ -51,7 +51,8 @@ The system is entirely front-end based, requiring no backend server. It is imple
 
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Description of image](https://drive.google.com/uc?export=view&id=1fMFdAwAf1yYJAwgmJIb8OdDLXn614sQY)
+
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
