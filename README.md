@@ -46,7 +46,7 @@ Incorrect answer: The user receives a humorous or sarcastic reply.
 The system is entirely front-end based, requiring no backend server. It is implemented using HTML, CSS, and JavaScript.
 
 # Screenshots (Add at least 3)
-[Screenshot_1](https://drive.google.com/file/d/1beQrm00A8rtXKYLu3tC_j1HjfSi_gtZD/view?usp=sharing)
+![Screenshot_1](https://drive.google.com/file/d/1beQrm00A8rtXKYLu3tC_j1HjfSi_gtZD/view?usp=sharing)
 
 *Add caption explaining what this shows*
 
