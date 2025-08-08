@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cookie of Fortune</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background: #fcefe3;
+      font-family: 'Press Start 2P', cursive;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #5d4037;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      color: #FFD700;
+      text-shadow: 2px 2px #5d4037;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 0.7rem;
+      max-width: 600px;
+      line-height: 1.6;
+      margin-bottom: 40px;
+    }
+
+    #cookie-btn {
+      font-size: 64px;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    #cookie-btn:hover {
+      transform: scale(1.2);
+    }
+
+    .hint {
+      font-size: 0.6rem;
+      margin-top: 10px;
+      color: #4B2E2E; /* Dark Brown */
+    }
+  </style>
+</head>
+<body>
+
+  <h1>(👉ﾟヮﾟ)👉 WELCOME TO TEAM FORTUNE 👈(ﾟヮﾟ👈)</h1>
+  <p>
+    We are a creative bunch of friends who happened to be engineers attending the Useless Projects Hackathon :) <b>Cookie of Fortune φ(゜▽゜*)♪</b>.  
+    Crack open a cookie, solve riddles, and reveal real, deserving fortunes — purely based on your skills and wit! :>
+    Are you ready to see what fate has in store?
+  </p>
+
+  <div id="cookie-btn">🍪</div>
+  <div class="hint">Press me to continue (there's no choice)</div>
+
+  <script>
+    document.getElementById("cookie-btn").addEventListener("click", () => {
+      window.location.href = "index.html";
+    });
+  </script>
+
+</body>
+</html>

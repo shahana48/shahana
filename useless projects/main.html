@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Fortune Cookie</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+  <style>
+    /* Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #f7ebdd;
+      font-family: 'Press Start 2P', cursive;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #4e342e;
+      text-shadow: 2px 2px #ffc107;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    #cookie {
+      width: 200px;
+      height: 200px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    #cookie:active {
+      transform: scale(0.95);
+    }
+
+    /* Scroll-style box */
+    .scroll-box {
+      margin-top: 20px;
+      background: #fff8dc;
+      border: 5px solid #d4af37;
+      border-radius: 20px;
+      padding: 15px 20px;
+      width: 280px;
+      text-align: center;
+      font-size: 0.7rem;
+      color: #4e342e;
+      box-shadow: 4px 4px 0 #d7ccc8;
+    }
+
+    #click-text {
+      animation: bounce 1s infinite alternate;
+    }
+
+    @keyframes bounce {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-5px); }
+    }
+
+    #message {
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>FORTUNE COOKIE</h1>
+
+  <img id="cookie" src="cookie1.png" alt="cookie" />
+
+  <!-- "Click me!" in scroll -->
+  <div id="click-text" class="scroll-box">Click me!</div>
+
+  <!-- Message in scroll -->
+  <div id="message" class="scroll-box"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

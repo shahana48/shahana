@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>TEAM FORTUNE</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: #fcefe3;
+      font-family: 'Press Start 2P', cursive;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #5d4037;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      margin-bottom: 30px;
+      letter-spacing: 2px;
+      font-weight: bold;
+      color: #FFD700; /* Yellow */
+      text-shadow: 2px 2px #5d4037;
+    }
+
+    #cookie-emoji {
+      font-size: 64px;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    #cookie-emoji:hover {
+      transform: scale(1.2);
+    }
+
+    .click-hint {
+      font-size: 0.7rem;
+      margin-top: 20px;
+      color: #4B2E2E; /* Dark Brown */
+    }
+  </style>
+</head>
+<body>
+
+  <h1>TEAM FORTUNE</h1>
+  <div id="cookie-emoji">🍪</div>
+  <div class="click-hint">(/ω＼) CLICK THE COOKIE TO SEE YOUR FORTUNE ╰(°▽°)╯</div>
+
+  <script>
+    document.getElementById("cookie-emoji").addEventListener("click", () => {
+      window.location.href = "main.html";
+    });
+  </script>
+
+</body>
+</html>
