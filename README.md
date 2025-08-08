@@ -1,53 +1,53 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [COOKIE OF FORTUNE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [CODEON]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Shahanamol KS - Muthoot Institute of Technology & Science
+- Member 2: Elaina Sara Sabu - Muthoot Institute of Technology & Science 
 
 ### Project Description
-[2-3 lines about what your project does]
+We are a creative bunch of friends who happened to be engineers attending the Useless Projects. Crack open a cookie, solve riddles, and reveal real, deserving fortunes — purely based on your skills and wit! :>
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The absolute neccessity to find your fortune; which somehow people rely on too much for luck.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We designed a fortune cookie that decides your imediate fate purely on your quick wit. 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- CSS
+- JS
 
 ### Implementation
-For Software:
+For Software: We used first.html, main.html, index.html, script.js files for implementing this project.
 # Installation
-[commands]
+-nil-
 
 # Run
-[commands]
+-nil-
 
 ### Project Documentation
 For Software:
+This project is a web-based interactive application that combines riddles with fortune cookie mechanics.
+When a user clicks the fortune cookie, a random riddle is displayed in a letter-style aesthetic. Based on the user’s answer:
+Correct answer: The user receives a positive fortune.
+Incorrect answer: The user receives a humorous or sarcastic reply.
+
+The system is entirely front-end based, requiring no backend server. It is implemented using HTML, CSS, and JavaScript.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+[Screenshot_1](https://drive.google.com/file/d/1beQrm00A8rtXKYLu3tC_j1HjfSi_gtZD/view?usp=sharing)
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
