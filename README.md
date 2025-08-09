@@ -69,8 +69,9 @@ The system is entirely front-end based, requiring no backend server. It is imple
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Description of image](https://drive.google.com/uc?export=view&id=11g0sQpOH_EFzWHrk2kXx8hCSTWN8ynxY)
+
+*The workflow of the Fortune Cookie App begins at the first.html cover page, where the user is greeted and can proceed by clicking the start button. This leads to index.html, where the user either types in their situation or selects a category, then clicks the “Go” button to continue. On main.html, a fortune cookie is displayed; when clicked, it reveals a riddle presented in a letter-style pop-up. The user enters an answer, and the system checks its correctness using script.js. If the riddle answer is correct, a good fortune is displayed; if it is wrong, a bad fortune or a humorous roast is shown. Regardless of the answer’s correctness, both outcomes lead to the fortune display stage on main.html, after which the user can choose to restart or exit, marking the end of the process.*
 
 ## Team Contributions
 - Elaina Sara Sabu : Idea, software, documentation
