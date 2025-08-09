@@ -49,50 +49,32 @@ The system is entirely front-end based, requiring no backend server. It is imple
 ![Description of image](https://drive.google.com/uc?export=view&id=1beQrm00A8rtXKYLu3tC_j1HjfSi_gtZD)
 
 
-*Add caption explaining what this shows*
+*An introduction to us as a team, and what our project is really about.*
 
 ![Description of image](https://drive.google.com/uc?export=view&id=1fMFdAwAf1yYJAwgmJIb8OdDLXn614sQY)
 
-*Add caption explaining what this shows*
+*The front page that effectively prompts the user to click the cookie to try their luck for their fortune.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Description of image](https://drive.google.com/uc?export=view&id=1beaIC0l3nHFdYvdbir_zYwmqE-VxY7g1)
+
+*The user then is then taken to the fortune cookie itself.*
+
+![Your Image Description](https://drive.google.com/uc?export=view&id=1pW5W0_Y9zO5AzxvXp2aAi6AGaCYkZqxx)
+
+*The riddle for their luck is presented, with a text input for the user for an answer.*
+
+![Description of image](https://drive.google.com/uc?export=view&id=1rkEsEvn2D0XNED_efOaUEPF6g6aEks_b)
+
+*Your fortune as been set! :>*
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Elaina Sara Sabu : Idea, software, documentation
+- Shahanamol KS : Idea, software, documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
